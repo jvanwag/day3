@@ -1,0 +1,24 @@
+.main-page {
+  width:100%
+}
+.top-bar {
+  width:100%;
+  background-color: #003c5d;
+  height: 100px;
+
+}
+.middle-bar {
+  width:100%;
+  height: 400px;
+
+}
+.bottom-bar {
+  width:100%;
+  height:600px;
+  background-color: #003c5d;
+
+}
+.picture{
+  height:50px;
+  width:50px;
+}
